@@ -1,0 +1,34 @@
+.redirected-page {
+  background-image:url(./9.png);
+  background-size: cover;
+  background-position: center;
+  height: 100vh; 
+  color: #ffffff; 
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  font-size: small;
+  }
+  
+  .wh1 {
+    margin-top: 15px; 
+  }
+  
+
+.redirected-page {
+  position: relative;
+}
+
+.welcome-container {
+  position: absolute;
+  top: 0;
+  left: 0;
+  padding: 10px;
+  color: white; 
+}
+
+.wh1 {
+  margin: 0; 
+}

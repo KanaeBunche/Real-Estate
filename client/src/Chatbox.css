@@ -1,0 +1,66 @@
+
+.chat-button {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  z-index: 9999;
+  background-color: transparent;
+  border: none;
+  padding: 0;
+  cursor: pointer;
+  width: 30px;
+  
+}
+
+.chatbox {
+  position: fixed;
+  bottom: -400px;
+  right: 60px;
+  z-index: 9998;
+  width: 300px;
+  background-color: #fff;
+  border: 1px solid #ccc;
+  border-radius: 1px;
+  transition: bottom 0.3s ease-in-out;
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
+  font-family: "CastoroTitling";
+  font-size: 12px;
+}
+
+.chatbox.open {
+  bottom: 16px;
+  right: 60px;
+  
+}
+
+.chatbox h1 {
+  margin: 0;
+  padding: 10px;
+  background-color: black;
+  color: #fff;
+  font-family: "BraahOne";
+  letter-spacing: 0.3s;
+}
+
+.chatbox ul {
+  list-style: none;
+  padding: 0;
+}
+
+.chatbox li {
+  padding: 5px 10px;
+}
+
+.chatbox input[type='text'] {
+  width: 100%;
+  padding: 10px;
+  border: none;
+  border-top: 1px solid #ccc;
+  font-family: "CastoroTitling";
+  font-size: 12px;
+}
+
+
+.font{
+  font-size: 19px;
+}

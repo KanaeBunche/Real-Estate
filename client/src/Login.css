@@ -1,0 +1,13 @@
+.loginback{
+    background-image:url(./plant.png);
+    background-size: cover;
+    background-position: center;
+    height: 100vh; 
+    color: #ffffff; 
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    
+}

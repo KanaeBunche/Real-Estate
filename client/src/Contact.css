@@ -1,0 +1,14 @@
+
+  .contactbak {
+  background-image: url('./9.png');
+    background-size: cover;
+    background-position: center;
+    height: 100vh; 
+    color: #ffffff; 
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: black;
+  }

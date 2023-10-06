@@ -1,0 +1,32 @@
+
+.edit{
+    background-color: transparent; 
+    border: none;
+    padding: 0; 
+    cursor: pointer; 
+    font-size: 24px;
+    width: 20px;
+    height: 25px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 4px; 
+  }
+  
+.edithouse input {
+    width:relative;
+    
+
+}
+
+.text{
+  height: 150px;
+  resize: none; 
+  background-color: rgba(248, 248, 248, 0.57);
+  border-radius: 3px;
+  padding: 10px;
+  font-size: 14px;
+  font-weight: 300;
+  color: #ffffff;
+  outline: none;
+  border: none;
+}
