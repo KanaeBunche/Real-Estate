@@ -1,77 +1,80 @@
 
-# Real Estate Website
+<h1>Real Estate Website</h1>
 
-![Real Estate Website](https://your-image-url-here.com)
+<p>Welcome to the Real Estate Website, a platform designed for real estate agents to connect, collaborate, and manage property listings with ease.</p>
 
-Welcome to the Real Estate Website, a platform designed for real estate agents to connect, collaborate, and manage property listings with ease.
+<h2>Table of Contents</h2>
 
-## Table of Contents
+<ul>
+  <li><a href="#introduction">Introduction</a></li>
+  <li><a href="#features">Features</a></li>
+  <li><a href="#getting-started">Getting Started</a></li>
+  <li><a href="#usage">Usage</a></li>
+  <li><a href="#feedback">Feedback</a></li>
+  <li><a href="#contributing">Contributing</a></li>
+  <li><a href="#license">License</a></li>
+</ul>
 
-- [Introduction](#introduction)
-- [Features](#features)
-- [Getting Started](#getting-started)
-- [Usage](#usage)
-- [Feedback](#feedback)
-- [Contributing](#contributing)
-- [License](#license)
+<h2>Introduction</h2>
 
-## Introduction
+<p>The Real Estate Website is a powerful tool tailored to real estate agents, providing a platform for interaction, listing management, and communication with the developer for continuous improvement.</p>
 
-The Real Estate Website is a powerful tool tailored to real estate agents, providing a platform for interaction, listing management, and communication with the developer for continuous improvement.
+<h2>Features</h2>
 
-## Features
+<ul>
+  <li><strong>Listing Management:</strong>
+    <ul>
+      <li>Real estate agents can add new property listings, edit existing ones, and remove outdated listings, ensuring an up-to-date portfolio.</li>
+    </ul>
+  </li>
+  <li><strong>Interactive Messaging:</strong>
+    <ul>
+      <li>Communicate with the developer directly through the platform to suggest new features, report issues, or provide feedback.</li>
+    </ul>
+  </li>
+  <li><strong>User-Friendly Interface:</strong>
+    <ul>
+      <li>Enjoy a user-friendly and intuitive interface that simplifies the process of managing property listings.</li>
+    </ul>
+  </li>
+</ul>
 
-- **Listing Management:**
-  - Real estate agents can add new property listings, edit existing ones, and remove outdated listings, ensuring an up-to-date portfolio.
+<h2>Getting Started</h2>
 
-- **Interactive Messaging:**
-  - Communicate with the developer directly through the platform to suggest new features, report issues, or provide feedback.
+<ol>
+  <li>Clone this repository to your local machine using Git:
+    <pre>git clone git@github.com:KanaeBunche/Real-Estate.git</pre></li>
+  <li>Navigate to the project directory:
+    <pre>cd Real-Estate</pre></li>
+  <li>Install project dependencies using Yarn:
+    <pre>yarn install</pre></li>
+  <li>Start the development server:
+    <pre>yarn start</pre></li>
+  <li>Access the website in your web browser at <code>http://localhost:3000</code>.</li>
+</ol>
 
-- **User-Friendly Interface:**
-  - Enjoy a user-friendly and intuitive interface that simplifies the process of managing property listings.
+<h2>Usage</h2>
 
-## Getting Started
+<ol>
+  <li><strong>Listing Management:</strong>
+    <ul>
+      <li>Log in to the platform as a real estate agent.</li>
+      <li>Add new property listings, edit existing listings, or remove outdated listings.</li>
+    </ul>
+  </li>
+  <li><strong>Interactive Messaging:</strong>
+    <ul>
+      <li>Click the "Contact Developer" option to send messages to the developer.</li>
+      <li>Share your suggestions, report issues, or provide feedback for platform improvements.</li>
+    </ul>
+  </li>
+</ol>
 
-To get started with the Real Estate Website, follow these steps:
+<h2>Feedback</h2>
 
-1. Clone this repository to your local machine using Git:
-   ```bash
-   git clone git@github.com:KanaeBunche/Real-Estate.git
-   ```
+<p>We value your feedback! If you have any suggestions, ideas, or encounter issues while using the Real Estate Website, please don't hesitate to reach out to us through the platform's messaging system. Your input is essential in helping us enhance this platform.</p>
 
-2. Navigate to the project directory:
-   ```bash
-   cd Real-Estate
-   ```
+<h2>Contributing</h2>
 
-3. Install project dependencies using Yarn:
-   ```bash
-   yarn install
-   ```
-
-4. Start the development server:
-   ```bash
-   yarn start
-   ```
-
-5. Access the website in your web browser at `http://localhost:3000`.
-
-## Usage
-
-1. **Listing Management:**
-   - Log in to the platform as a real estate agent.
-   - Add new property listings, edit existing listings, or remove outdated listings.
-
-2. **Interactive Messaging:**
-   - Click the "Contact Developer" option to send messages to the developer.
-   - Share your suggestions, report issues, or provide feedback for platform improvements.
-
-## Feedback
-
-We value your feedback! If you have any suggestions, ideas, or encounter issues while using the Real Estate Website, please don't hesitate to reach out to us through the platform's messaging system. Your input is essential in helping us enhance this platform.
-
-## Contributing
-
-Contributions to the Real Estate Website project are welcome. If you'd like to contribute, please follow our [contributing guidelines](CONTRIBUTING.md).
-
-E provides an overview of the project, its features, and how users can get started and provide feedback. You can further customize it to match the specifics of your project.
+<p>Contributions to the Real Estate Website project are welcome. If you'd like to contribute, please follow our <a href="CONTRIBUTING.md">contributing guidelines</a>.</p>
+```
